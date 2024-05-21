@@ -1,9 +1,3 @@
-
-### Notes:
-
-- Replace `yourusername/yourproject` with the actual GitHub repository URL.
-- Modify the commands (`chmod +x *.py`, `./interpreter.py`, etc.) based on your project's specific requirements.
-- Update the list of authors (`John Doe`, `Jane Smith`, etc.) with the names and email addresses of the contributors to your project.
-- Ensure the `AUTHORS` file follows a similar format to Docker's AUTHORS page, listing all individuals who have contributed to the repository.
-
-This `README.md` template provides a clear overview of your project, instructions for starting and using the command interpreter, and details about the project's contributors. It serves as a helpful guide for users and collaborators who interact with your Python command-line interpreter.
+the team behind the project
+slwan mohammed <slwanmohammed9@gmail.com>
+Abubakr alfdul <bakryalfadul@gmail.com>
